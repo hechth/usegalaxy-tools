@@ -6,6 +6,7 @@ tools:
 - name: scanpy_plot
   owner: iuc
   revisions:
+  - 62acdd96d4a0
   - 6adf98e782f3
   - 6f5349dd5c49
   - 70fa84e99463
@@ -27,6 +28,7 @@ tools:
   - 9d33775ec67d
   - c5d3684f7c4c
   - ca086f24422f
+  - d86cb2ce311b
   - e4c99c83dfbf
   - f54f0f0598ad
   tool_panel_section_id: single_cell
@@ -38,6 +40,7 @@ tools:
   - 2d02d9702d3a
   - 3c86f71498bc
   - 5511647110ff
+  - 64388be6d510
   - a03ff8633507
   - aa0059118fb9
   - b409c2486353
@@ -48,6 +51,7 @@ tools:
 - name: scanpy_normalize
   owner: iuc
   revisions:
+  - 4bda4412b8c2
   - 51d945eab1e1
   - 5342ce58cd1e
   - 7b9fafe32c86
@@ -68,6 +72,7 @@ tools:
   - 64ff3ef24fae
   - 6acb08931836
   - 6f83f8fd381f
+  - 8983e7a04ba7
   - aaa5da8e73a9
   - b2df381a6004
   - edec35114f72
@@ -80,6 +85,7 @@ tools:
   - 458e8f43a775
   - 73ab2ac53d06
   - 80d4e2cac903
+  - 974bb00b2f43
   - bf2017df9837
   - c2ef03559dc6
   - c65fce500915
@@ -94,6 +100,7 @@ tools:
   - 32c5c85cbc12
   - c0b037b12765
   - c5ac926c838f
+  - cfaf5a405371
   - e1c3c2f2a834
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -105,6 +112,7 @@ tools:
   - 93dd15e13e6a
   - ae1e5d9d8972
   - cfc3f5a57dc6
+  - d330b3082107
   - fb9e030ffae4
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -112,6 +120,7 @@ tools:
   owner: iuc
   revisions:
   - 038e32885fec
+  - 0bf7fddf90c7
   - 383dcb0500f9
   - 39e945f0b2c1
   - 6f0d0c784f09
@@ -123,6 +132,7 @@ tools:
   revisions:
   - 3d748954434b
   - 43cb7b5a6fe7
+  - 7e8c677a7b71
   - 8db95f488f0f
   - ed4996a16f7f
   tool_panel_section_id: single_cell
@@ -130,6 +140,7 @@ tools:
 - name: modify_loom
   owner: iuc
   revisions:
+  - 0f1aaff9b22d
   - 4b0adaa31c95
   - 59be31ac9dc3
   - 7784821452ac
@@ -484,12 +495,14 @@ tools:
 - name: sinto_barcode
   owner: iuc
   revisions:
+  - d0f56ac6bb60
   - d1b34ac42b8f
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: sinto_fragments
   owner: iuc
   revisions:
+  - 03a04f48b922
   - 29e6bfb2cf49
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell

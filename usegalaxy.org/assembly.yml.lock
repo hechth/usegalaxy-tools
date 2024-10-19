@@ -351,6 +351,7 @@ tools:
   - 5127a713de83
   - 5799092ffdff
   - 690c2caa367e
+  - 6ec1b853c8fd
   - 8ccbf07a5433
   - ad1149b4f795
   tool_panel_section_id: assembly
@@ -395,6 +396,7 @@ tools:
   owner: iuc
   revisions:
   - 8e66f695d859
+  - f73ab5187eed
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: pairtools_dedup

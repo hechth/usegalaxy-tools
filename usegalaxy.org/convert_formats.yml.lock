@@ -8,6 +8,7 @@ tools:
   revisions:
   - 27673f5b5343
   - 359e043a285c
+  - 767943cd85bf
   - 7ecb45126cd2
   - b226e0c805a5
   - f5792425ea50
@@ -38,6 +39,7 @@ tools:
   owner: iuc
   revisions:
   - c24014d80001
+  - faef2b1622a3
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: bam_to_scidx
@@ -60,6 +62,7 @@ tools:
   revisions:
   - 2dcfbbf9071a
   - 68f57cc8fad0
+  - 78fb18899c99
   - b8cdc0507586
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
@@ -69,11 +72,13 @@ tools:
   - 297962e79f39
   - 4844c1810c16
   - a64c24430f5e
+  - ac3fed111eb6
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: fastq_to_tabular
   owner: devteam
   revisions:
+  - 43807a65369f
   - 4b347702c4aa
   - 614a63f14adf
   - ccf4e1d1fcbe
@@ -92,6 +97,7 @@ tools:
   - 0f0cf480051b
   - 158b5b2a164a
   - 60ca8d013263
+  - 6ee334657360
   - e13f565068d6
   - e5340c09200a
   tool_panel_section_id: convert_formats
@@ -99,6 +105,7 @@ tools:
 - name: crossmap_bed
   owner: iuc
   revisions:
+  - 50b7875a49d0
   - 91efc13d3ec1
   - cdbdce00f5f6
   - ee86b27291b5
@@ -112,6 +119,7 @@ tools:
   - 5f893ed3c5ed
   - e72c320c17c1
   - e8d84292e510
+  - f7229c8445da
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: crossmap_vcf
@@ -122,6 +130,7 @@ tools:
   - 71730c177cdf
   - 97979c3d179f
   - b21851ddcc79
+  - d4965adac10c
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: crossmap_gff
@@ -130,6 +139,7 @@ tools:
   - 09c6a9e067f9
   - 42b239a32349
   - 4d97434ea0fb
+  - 75a08e10cc76
   - 88d180fb6d67
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
@@ -153,6 +163,7 @@ tools:
   owner: iuc
   revisions:
   - 356dc923f8d3
+  - 3c6f9e8a4c17
   - 8067dfa00ed2
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
@@ -200,6 +211,7 @@ tools:
   - 31dfed0f0eed
   - 391a19477a12
   - 39881709807e
+  - 3e81299dfce3
   - 8dbc700cb940
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
@@ -209,11 +221,13 @@ tools:
   - 3cf310697624
   - 545054b15d7c
   - 6153e8ada1ee
+  - ab6c14374bc0
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: ucsc_wigtobigwig
   owner: iuc
   revisions:
+  - 98704d357ede
   - a2f83a375bf2
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
@@ -228,11 +242,13 @@ tools:
   revisions:
   - 65a69de1e294
   - a7387ce2a8ca
+  - ea93df4b3df2
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: tooldistillator_summarize
   owner: iuc
   revisions:
+  - 24eec94e6dfc
   - 6ff67d2860e1
   - def7a82d23e1
   tool_panel_section_id: convert_formats
