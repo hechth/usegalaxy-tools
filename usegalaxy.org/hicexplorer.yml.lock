@@ -7,6 +7,7 @@ tools:
   owner: bgruening
   revisions:
   - 01c37e54e86e
+  - 65fc9fc648f4
   - fb7068d30ec9
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
@@ -14,6 +15,7 @@ tools:
   owner: bgruening
   revisions:
   - 57aeaf6b237d
+  - 7157e98ec11a
   - 9d42a6133690
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
@@ -34,6 +36,7 @@ tools:
 - name: hicexplorer_chicqualitycontrol
   owner: bgruening
   revisions:
+  - 853c072bbb11
   - a63e9713c39d
   - b892fa1fcaec
   tool_panel_section_id: hicexplorer
@@ -43,6 +46,7 @@ tools:
   revisions:
   - 45a386d18509
   - 640e0e45518a
+  - e9cf8387e386
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
 - name: hicexplorer_chicviewpoint
@@ -55,6 +59,7 @@ tools:
 - name: hicexplorer_chicqualitycontrol
   owner: bgruening
   revisions:
+  - 853c072bbb11
   - a63e9713c39d
   - b892fa1fcaec
   tool_panel_section_id: hicexplorer
@@ -64,6 +69,7 @@ tools:
   revisions:
   - 45a386d18509
   - 640e0e45518a
+  - e9cf8387e386
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
 - name: hicexplorer_chicviewpoint
@@ -112,6 +118,7 @@ tools:
   owner: bgruening
   revisions:
   - 3ee5332bf57c
+  - 6f078762ff7f
   - e03780179ee5
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
@@ -125,6 +132,7 @@ tools:
 - name: hicexplorer_hicconvertformat
   owner: bgruening
   revisions:
+  - 0d0c6092cc43
   - 2ba6cee8e4db
   - c0737631eea1
   tool_panel_section_id: hicexplorer
@@ -147,6 +155,7 @@ tools:
   owner: bgruening
   revisions:
   - 0410b6aada45
+  - 18bf75bf5d67
   - ffc33339cd3e
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
@@ -174,6 +183,7 @@ tools:
 - name: hicexplorer_hichyperoptdetectloops
   owner: bgruening
   revisions:
+  - 1fa29fabe773
   - 409396ea5cf0
   - 7f7c6ead2d0d
   tool_panel_section_id: hicexplorer
@@ -182,6 +192,7 @@ tools:
   owner: bgruening
   revisions:
   - 51e40e9b6c3c
+  - 58293f858e2d
   - e4f8fceab96a
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
@@ -217,6 +228,7 @@ tools:
   owner: bgruening
   revisions:
   - 6d042c96aceb
+  - b1815cb2b298
   - f34ab9882252
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
@@ -224,12 +236,14 @@ tools:
   owner: bgruening
   revisions:
   - 77919cc3618e
+  - b03f8b95b08c
   - c3e5e2cf12b7
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
 - name: hicexplorer_hicplotaverageregions
   owner: bgruening
   revisions:
+  - 16a8d1688c65
   - dd9988943f53
   - ea5d67ec94ab
   tool_panel_section_id: hicexplorer
@@ -329,6 +343,7 @@ tools:
 - name: schicexplorer_schicclustersvl
   owner: iuc
   revisions:
+  - e327fe59be69
   - e6ec3914a076
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
@@ -377,6 +392,7 @@ tools:
 - name: schicexplorer_schicnormalize
   owner: iuc
   revisions:
+  - 12825fd4c91c
   - 66e96c3d3c5d
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer

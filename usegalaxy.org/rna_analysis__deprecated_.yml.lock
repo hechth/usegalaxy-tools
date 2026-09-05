@@ -25,6 +25,7 @@ tools:
 - name: cufflinks
   owner: devteam
   revisions:
+  - 6926716bbfb5
   - d080005cffe1
   - e04dbae2abe0
   tool_panel_section_id: rna_analysis__deprecated_
@@ -39,6 +40,7 @@ tools:
 - name: cuffnorm
   owner: devteam
   revisions:
+  - 28b94cfbfdb9
   - 9a854107dbb2
   - f5b2ee725d34
   tool_panel_section_id: rna_analysis__deprecated_

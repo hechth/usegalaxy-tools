@@ -10,12 +10,14 @@ tools:
   - 359e043a285c
   - 7ecb45126cd2
   - b226e0c805a5
+  - f287fbd75138
   - f5792425ea50
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: bbgbigwig
   owner: iuc
   revisions:
+  - 2d24e59a351a
   - b95435276746
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
@@ -38,6 +40,7 @@ tools:
   owner: iuc
   revisions:
   - c24014d80001
+  - faef2b1622a3
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: bam_to_scidx
@@ -68,6 +71,7 @@ tools:
   revisions:
   - 297962e79f39
   - 4844c1810c16
+  - 4a3e93647a4e
   - a64c24430f5e
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
@@ -100,6 +104,7 @@ tools:
   owner: iuc
   revisions:
   - 91efc13d3ec1
+  - b1c12a94db6f
   - cdbdce00f5f6
   - ee86b27291b5
   - f4a70882a71b
@@ -110,6 +115,7 @@ tools:
   revisions:
   - 282a658c6569
   - 5f893ed3c5ed
+  - 754f70dd85ae
   - e72c320c17c1
   - e8d84292e510
   tool_panel_section_id: convert_formats
@@ -122,12 +128,14 @@ tools:
   - 71730c177cdf
   - 97979c3d179f
   - b21851ddcc79
+  - d8649c4e4c3a
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: crossmap_gff
   owner: iuc
   revisions:
   - 09c6a9e067f9
+  - 0eb744382179
   - 42b239a32349
   - 4d97434ea0fb
   - 88d180fb6d67
@@ -200,6 +208,7 @@ tools:
   - 31dfed0f0eed
   - 391a19477a12
   - 39881709807e
+  - 77f67ddd89d6
   - 8dbc700cb940
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
@@ -220,6 +229,7 @@ tools:
 - name: bam2fastx
   owner: iuc
   revisions:
+  - 43fd2ba63c16
   - 7f7f2ee03430
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats

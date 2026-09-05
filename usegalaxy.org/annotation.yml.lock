@@ -18,6 +18,7 @@ tools:
   - 4efdca267d51
   - b734db305578
   - c2ef298da409
+  - d8b0de0554a9
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: augustus
@@ -31,6 +32,7 @@ tools:
 - name: augustus_training
   owner: bgruening
   revisions:
+  - 2fdc599f2814
   - 6519ebe25019
   - 7be22100e5e1
   - dc027fa56d55
@@ -60,6 +62,7 @@ tools:
   - 46ae58b1d792
   - 602fb8e63aa7
   - 94170eee0ad8
+  - cc217867028e
   - cf13a1e03e5b
   - e4bd1e99bacf
   - ea8146ee148f
@@ -199,6 +202,7 @@ tools:
   - 78608ec02d62
   - 809e42326fc2
   - 91887494eb97
+  - 9b2b122d0415
   - dbe2b2204555
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -231,6 +235,7 @@ tools:
   - 2c68b0c38785
   - 4839e590cb26
   - 51dd22484644
+  - 60a1dad331ec
   - 809dfc93d593
   - ac8250086ac3
   - ba6f87115e13
@@ -399,6 +404,7 @@ tools:
 - name: funannotate_annotate
   owner: iuc
   revisions:
+  - 0b8d49d3742d
   - 3bbe70fef6df
   - 582fd74dc2a1
   - 756376aeb1ae
@@ -411,6 +417,7 @@ tools:
   owner: iuc
   revisions:
   - 1bc5a03faf2e
+  - 3cc3ef448854
   - 4b96ced19f75
   - 51b6ee65ef7f
   - f31125bb85ea
@@ -441,6 +448,7 @@ tools:
   owner: iuc
   revisions:
   - 033755194fe9
+  - 59c8717f6925
   - 73b018c57e96
   - af3c1dc1d141
   - b815ec682418
@@ -458,6 +466,7 @@ tools:
   owner: iuc
   revisions:
   - aeb4c76d007b
+  - e64445f727cd
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: miniprot
@@ -470,6 +479,7 @@ tools:
   owner: iuc
   revisions:
   - 7844dbe4f8e2
+  - 96112e4c5e26
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: compleasm

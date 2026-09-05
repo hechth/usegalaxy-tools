@@ -6,6 +6,7 @@ tools:
 - name: vcffilter
   owner: devteam
   revisions:
+  - 4bdc111b2470
   - 81972652519c
   - fa24bf0598f4
   tool_panel_section_id: vcf_bcf
@@ -345,6 +346,7 @@ tools:
   owner: iuc
   revisions:
   - '388983871932'
+  - 7aea930ab6cc
   - 9c0028888512
   - a2f8dc22d7c0
   - b17394940c7a
@@ -433,6 +435,7 @@ tools:
   - 56556e1267de
   - 5660b21a0dbd
   - a0c219ecb5e7
+  - cd06642e9c20
   - ce9396ddcb2b
   - f65383c7ed49
   tool_panel_section_id: vcf_bcf
@@ -444,6 +447,7 @@ tools:
   - 3f6fadf8b8ff
   - 3f7900995059
   - 4813f99d81b7
+  - 64e76575fb9a
   - b781fa08aa3c
   - be6b217710af
   - c450406f722b
@@ -459,6 +463,7 @@ tools:
   - 76fe872413c2
   - 8abfcd1a6949
   - bb3d20a58f5b
+  - f319f4089d5e
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_cnv
@@ -467,6 +472,7 @@ tools:
   - 01d6b7d6365e
   - 0238f68ad641
   - 143796b504eb
+  - 2b7e7aa56527
   - 4891338c6c54
   - 635532ff1ac9
   - 6d35a3780bfd
@@ -479,6 +485,7 @@ tools:
   - 03e30f06f15f
   - 2f4eef1f0d22
   - 34dc0bbc7e93
+  - 433f1673736a
   - 5d98fe06e4ae
   - 701e01819e52
   - dfef7a353ed0
@@ -489,6 +496,7 @@ tools:
   owner: iuc
   revisions:
   - 18cf9de1cf73
+  - 2261ddc23215
   - 242753783b68
   - 77e0bd62b554
   - 8c3ff4ef1190
@@ -501,6 +509,7 @@ tools:
   owner: iuc
   revisions:
   - 1ca7418e46ee
+  - 262d695b5456
   - 6deb4d549bc9
   - a62e934346f5
   - c077f71d351f
@@ -513,6 +522,7 @@ tools:
   owner: iuc
   revisions:
   - 4935320a59a8
+  - 4bbdf586aeff
   - 55c0e906c14c
   - 7291189e98b4
   - 7887b9d94c05
