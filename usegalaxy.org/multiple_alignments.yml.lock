@@ -87,6 +87,7 @@ tools:
 - name: mummer_show_coords
   owner: iuc
   revisions:
+  - 59f156f7f3c7
   - 959c1f8dae95
   - b4124df98b26
   - b8e2c2f95d26
@@ -98,6 +99,7 @@ tools:
   owner: iuc
   revisions:
   - 4fc0cb2ac8ae
+  - 75e15ee43896
   - c0cedc12fcc5
   - e8c60daa41e0
   - ebe3b0f84de9

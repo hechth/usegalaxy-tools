@@ -161,6 +161,7 @@ tools:
 - name: basil
   owner: iuc
   revisions:
+  - bf1bdb62d882
   - e6ef29001647
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -286,6 +287,7 @@ tools:
 - name: snp_dists
   owner: iuc
   revisions:
+  - 1be3e9c59601
   - f78492521996
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -293,5 +295,6 @@ tools:
   owner: iuc
   revisions:
   - 5804f786060d
+  - 67ef1dddcad9
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling

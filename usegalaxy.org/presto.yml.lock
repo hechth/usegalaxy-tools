@@ -43,6 +43,7 @@ tools:
   - 1ed5b0772f98
   - 4049467b8bb8
   - 90315cb06d06
+  - de864d852bce
   tool_panel_section_id: presto
   tool_panel_section_label: pRESTO
 - name: presto_pairseq
