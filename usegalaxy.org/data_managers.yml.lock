@@ -6,6 +6,7 @@ tools:
 - name: data_manager_fetch_genome_dbkeys_all_fasta
   owner: devteam
   revisions:
+  - 4a82d1157b14
   - 4d3eff1bc421
   tool_panel_section_id: data_managers
   tool_panel_section_label: Data Managers
@@ -18,6 +19,7 @@ tools:
 - name: data_manager_bwa_mem_index_builder
   owner: devteam
   revisions:
+  - 966d4de7bf2d
   - 9e993022c762
   tool_panel_section_id: data_managers
   tool_panel_section_label: Data Managers
@@ -118,6 +120,7 @@ tools:
   owner: iuc
   revisions:
   - 4cd97cc67061
+  - c25818208c77
   - dbf2735e8480
   tool_panel_section_id: data_managers
   tool_panel_section_label: Data Managers

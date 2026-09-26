@@ -30,6 +30,7 @@ tools:
   revisions:
   - 2b676d5eb848
   - 71572faf938e
+  - a151d2cf27fb
   - d45a786cbc40
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -69,6 +70,7 @@ tools:
   - 00e66c401366
   - 07cac38cbd29
   - 357df6c47d92
+  - a26afcf352fd
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: matchms_formatter

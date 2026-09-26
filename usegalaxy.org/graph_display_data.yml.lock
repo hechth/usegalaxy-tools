@@ -29,6 +29,7 @@ tools:
   revisions:
   - 1c5dcef5ce0f
   - 62e3a4e8c54c
+  - f234e2e59d76
   tool_panel_section_id: graph_display_data
   tool_panel_section_label: Graph/Display Data
 - name: plotly_regression_performance_plots
@@ -70,6 +71,7 @@ tools:
   - 374e9062d874
   - 53460afd5115
   - '566197475670'
+  - 6a097d09fca3
   - ca7cb0eaad62
   tool_panel_section_id: graph_display_data
   tool_panel_section_label: Graph/Display Data
@@ -120,6 +122,7 @@ tools:
 - name: taxonomy_krona_chart
   owner: crs4
   revisions:
+  - 7d01da0b9e18
   - e9005d1f3cfd
   tool_panel_section_id: graph_display_data
   tool_panel_section_label: Graph/Display Data
@@ -140,6 +143,7 @@ tools:
   revisions:
   - 067592b6b312
   - 21e491ad532a
+  - 86ec2f06de3c
   - 94fe43e75ddc
   - b2860df42e16
   - b9e31c5c01c7
@@ -163,6 +167,7 @@ tools:
   owner: iuc
   revisions:
   - 10515715c940
+  - 15cebddc6dba
   - 3d059e9c2fba
   - a4d83ba2a1bc
   - d3a9e32672ec
@@ -177,6 +182,7 @@ tools:
   - 355a82227003
   - 497d700a5229
   - 536078949ae4
+  - 6b9816a913de
   - b0d96516e6a5
   - fb50ab943396
   tool_panel_section_id: graph_display_data
@@ -185,6 +191,7 @@ tools:
   owner: iuc
   revisions:
   - 1b9406a1a769
+  - 1df3b30325dd
   - 2bf238af068d
   - 7f2ef7216cf8
   - 90928b255abb
@@ -203,6 +210,7 @@ tools:
   - 9cec81e1b90e
   - a36551483a8f
   - d0fc8b746d57
+  - f87634b12749
   tool_panel_section_id: graph_display_data
   tool_panel_section_label: Graph/Display Data
 - name: ggplot2_violin
@@ -265,6 +273,7 @@ tools:
 - name: pe_histogram
   owner: iuc
   revisions:
+  - 594b85e4237a
   - bd1416eea1f0
   tool_panel_section_id: graph_display_data
   tool_panel_section_label: Graph/Display Data
@@ -303,6 +312,7 @@ tools:
   owner: iuc
   revisions:
   - 2f557f6abbfb
+  - 3d5b9e4df7ba
   - 73b8cb5bddcd
   - 83c573f2e73c
   - a363ba287b88

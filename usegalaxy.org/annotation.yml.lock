@@ -18,6 +18,7 @@ tools:
   - 4efdca267d51
   - b734db305578
   - c2ef298da409
+  - d8b0de0554a9
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: augustus
@@ -31,6 +32,7 @@ tools:
 - name: augustus_training
   owner: bgruening
   revisions:
+  - 2fdc599f2814
   - 6519ebe25019
   - 7be22100e5e1
   - dc027fa56d55
@@ -231,6 +233,7 @@ tools:
   - 2c68b0c38785
   - 4839e590cb26
   - 51dd22484644
+  - 60a1dad331ec
   - 809dfc93d593
   - ac8250086ac3
   - ba6f87115e13
@@ -441,6 +444,7 @@ tools:
   owner: iuc
   revisions:
   - 033755194fe9
+  - 59c8717f6925
   - 73b018c57e96
   - af3c1dc1d141
   - b815ec682418

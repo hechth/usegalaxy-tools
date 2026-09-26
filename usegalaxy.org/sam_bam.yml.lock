@@ -14,6 +14,7 @@ tools:
 - name: samtools_mpileup
   owner: devteam
   revisions:
+  - 0668270db5ba
   - 9da0311ab1dd
   - b61f5d6a7f25
   - fa7ad9b89f4a
@@ -180,6 +181,7 @@ tools:
   revisions:
   - 108db6635177
   - 1dfd95ee241e
+  - 47db0f26ca31
   - 4fe8a75334c8
   - 993b19f20c76
   - bd735cae4ce6
@@ -205,11 +207,13 @@ tools:
   revisions:
   - 9b520009db81
   - 9b8feb118f9e
+  - f66e109710bd
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
 - name: bamtools_split_tag
   owner: iuc
   revisions:
+  - a0014762e2ee
   - e30af4e78cd3
   - e9b9c489aacc
   tool_panel_section_id: sam_bam
@@ -221,6 +225,7 @@ tools:
   - 44de678a44c4
   - 56faa6a57e50
   - 971dc85e9441
+  - fb6d5ffc365f
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
 - name: samtools_fastx

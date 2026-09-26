@@ -127,6 +127,7 @@ tools:
   revisions:
   - 48cf45a53456
   - 6357b127161e
+  - 7170a53ee406
   - b65a43f70b99
   - d159735a6a9f
   - d5fb354f745d
@@ -175,6 +176,7 @@ tools:
   - 7bb235ff0746
   - 85fb02c43042
   - 8cc856b935ee
+  - c4e781659379
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: spades_metaviralspades
@@ -339,6 +341,7 @@ tools:
   owner: iuc
   revisions:
   - 75b4a2298714
+  - 9491362ac1cd
   - eca7d3a0c5f2
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -376,6 +379,7 @@ tools:
   owner: devteam
   revisions:
   - 920677cd220f
+  - e0e4fc474b07
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: aegean_parseval

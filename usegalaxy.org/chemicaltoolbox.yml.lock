@@ -375,6 +375,7 @@ tools:
   owner: bgruening
   revisions:
   - e376ba0fcde0
+  - f2aef0ee9d78
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: mdanalysis_ramachandran_protein
@@ -441,6 +442,7 @@ tools:
   owner: bgruening
   revisions:
   - 330514267c57
+  - e1676a9f766b
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: mdanalysis_angle
