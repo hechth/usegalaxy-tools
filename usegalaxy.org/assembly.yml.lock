@@ -26,6 +26,7 @@ tools:
 - name: quast
   owner: iuc
   revisions:
+  - 1b1cf0c96501
   - 3061c8b029e5
   - 59db8ea8c845
   - 675488238c96
@@ -78,6 +79,7 @@ tools:
   - 14ddfc8ffb93
   - 7518ee87b53d
   - a96f3ad4e0d8
+  - ab208c87d973
   - de387b2b2803
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -127,6 +129,7 @@ tools:
   revisions:
   - 48cf45a53456
   - 6357b127161e
+  - 7170a53ee406
   - b65a43f70b99
   - d159735a6a9f
   - d5fb354f745d
@@ -175,6 +178,7 @@ tools:
   - 7bb235ff0746
   - 85fb02c43042
   - 8cc856b935ee
+  - c4e781659379
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: spades_metaviralspades
@@ -360,6 +364,7 @@ tools:
   revisions:
   - 39495e107274
   - 425e63adcc5d
+  - 6756b34312cd
   - d87433f2a54d
   - fc925f53cae7
   - ff4031bfaa22
@@ -376,6 +381,7 @@ tools:
   owner: devteam
   revisions:
   - 920677cd220f
+  - e0e4fc474b07
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: aegean_parseval
@@ -403,6 +409,7 @@ tools:
   - 5412142130ad
   - 55a53b5e308d
   - 56bb29747b4d
+  - b507ad3fe6ce
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: pairtools_parse
@@ -434,6 +441,7 @@ tools:
   revisions:
   - 6cbca5661205
   - 81fc1418fbfb
+  - 88926bef8e75
   - c20a07c9237b
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly

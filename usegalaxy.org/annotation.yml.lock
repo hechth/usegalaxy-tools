@@ -199,6 +199,7 @@ tools:
   - 78608ec02d62
   - 809e42326fc2
   - 91887494eb97
+  - 9b2b122d0415
   - dbe2b2204555
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -367,6 +368,7 @@ tools:
   - 52bd683c6d3f
   - 579538ff939d
   - cb0d9eb033ef
+  - ec5826d33185
   - eeb5c054ecf8
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -391,6 +393,7 @@ tools:
   - 0418d28136de
   - 30f08d74024f
   - 57c6718cbfcc
+  - 7f8f38e27dee
   - a7ce2601500c
   - b69c46064ec7
   - e94187d661df
@@ -458,6 +461,7 @@ tools:
   owner: iuc
   revisions:
   - aeb4c76d007b
+  - e64445f727cd
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: miniprot
@@ -475,6 +479,7 @@ tools:
 - name: compleasm
   owner: iuc
   revisions:
+  - 2b9b64614d0c
   - 8f20a5b9b282
   - cfec9601b25d
   tool_panel_section_id: annotation

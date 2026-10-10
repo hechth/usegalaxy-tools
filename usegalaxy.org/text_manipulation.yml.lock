@@ -58,6 +58,7 @@ tools:
   - 0a8c6b61f0f4
   - 12615d397df7
   - 20344ce0c811
+  - 30b60202d990
   - 60edf2f8c28f
   - 9ff72e942410
   - d698c222f354
@@ -112,6 +113,7 @@ tools:
   - 3bf5661c0280
   - 60ff16842fcd
   - 93a3ce78ce55
+  - c656214aa052
   - dddadbbac949
   tool_panel_section_id: text_manipulation
   tool_panel_section_label: Text Manipulation
@@ -189,6 +191,7 @@ tools:
   owner: bgruening
   revisions:
   - 156d0908e232
+  - be2d899bf34a
   tool_panel_section_id: text_manipulation
   tool_panel_section_label: Text Manipulation
 - name: add_value

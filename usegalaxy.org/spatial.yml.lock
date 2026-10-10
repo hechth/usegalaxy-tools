@@ -40,5 +40,6 @@ tools:
   owner: goeckslab
   revisions:
   - 7cc457aa78b1
+  - cab38f254824
   tool_panel_section_id: spatial
   tool_panel_section_label: Spatial

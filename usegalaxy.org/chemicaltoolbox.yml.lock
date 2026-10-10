@@ -344,6 +344,7 @@ tools:
 - name: openbabel_addh
   owner: bgruening
   revisions:
+  - 6da72bb13a05
   - 6e4b7e0c61a6
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
@@ -428,6 +429,7 @@ tools:
   owner: bgruening
   revisions:
   - 01ab890bf0ad
+  - 23284172bc4e
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: mdanalysis_rdf
@@ -441,6 +443,7 @@ tools:
   owner: bgruening
   revisions:
   - 330514267c57
+  - e1676a9f766b
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: mdanalysis_angle
@@ -507,6 +510,7 @@ tools:
   owner: bgruening
   revisions:
   - 7672039a0bb0
+  - aa62ff7e28b5
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: openbabel_genprop
@@ -531,6 +535,7 @@ tools:
   owner: bgruening
   revisions:
   - 5486f7a2b0cb
+  - d9d5aa013bb4
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: sucos_clustering
@@ -549,6 +554,7 @@ tools:
   owner: bgruening
   revisions:
   - 2c5c7da26e08
+  - d5ad79cfa0ae
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: rdock_rbcavity
