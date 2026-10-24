@@ -20,6 +20,7 @@ tools:
   - 54f751e413f4
   - 62c9df8382c2
   - 64be1ac21109
+  - ad7226fac56d
   - e8ac2b53f262
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -33,6 +34,7 @@ tools:
 - name: vegan_rarefaction
   owner: iuc
   revisions:
+  - 2e07478654b3
   - af1211ed6c8e
   - b0d5976540e3
   tool_panel_section_id: metagenomic_analysis
@@ -117,6 +119,7 @@ tools:
   - 584008e574b2
   - 72ed72122deb
   - a4db66553a61
+  - b3858ab7f598
   - bd46669113b9
   - d4d4e9febf5c
   - e177a8ea0bf1
@@ -156,6 +159,7 @@ tools:
   owner: iuc
   revisions:
   - 21bf2f07f3f3
+  - 775131a4d84b
   - 8dfc90f35aba
   - acd9fe45eb81
   tool_panel_section_id: metagenomic_analysis
@@ -333,6 +337,7 @@ tools:
   owner: iuc
   revisions:
   - 5a0fa29951ae
+  - 8388fe31d604
   - b7429b53be2a
   - e562293ee5ec
   tool_panel_section_id: metagenomic_analysis
@@ -349,6 +354,7 @@ tools:
   owner: iuc
   revisions:
   - 06d1d91c67e5
+  - 570505540a7b
   - 77410799e8e9
   - b3d513c7093e
   tool_panel_section_id: metagenomic_analysis
@@ -472,6 +478,7 @@ tools:
   owner: iuc
   revisions:
   - 1a6cdf55390f
+  - 1f688befbcdf
   - 289b3807e80c
   - b6897977d13e
   - ec368db926f4
@@ -483,6 +490,7 @@ tools:
   revisions:
   - 080ea153677c
   - 2d35528d2141
+  - 4e5e73d03f0d
   - 5e5a999ffaa9
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -492,6 +500,7 @@ tools:
   - 64bc7acc22a9
   - 6fcb8ac37a3e
   - 97f7bb0851e7
+  - a92c06a3afa7
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: humann_rename_table
@@ -500,6 +509,7 @@ tools:
   - 094ad9c068af
   - 172920f67a84
   - 714d5a28cc5c
+  - aabf8cfb8fef
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: combine_metaphlan2_humann2
@@ -513,12 +523,14 @@ tools:
   owner: iuc
   revisions:
   - 86dec4abcea8
+  - f4409b2e1501
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: mash_sketch
   owner: iuc
   revisions:
   - 43f9ca23c132
+  - 9c102da4ca13
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: metabat2

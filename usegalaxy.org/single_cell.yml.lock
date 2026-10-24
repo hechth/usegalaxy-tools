@@ -25,6 +25,7 @@ tools:
   - 6bd82ed14acd
   - 6c145a6868cc
   - 9d33775ec67d
+  - a8d291df615d
   - c5d3684f7c4c
   - ca086f24422f
   - e4c99c83dfbf
@@ -48,6 +49,7 @@ tools:
 - name: scanpy_normalize
   owner: iuc
   revisions:
+  - 2b6498d4c8c6
   - 51d945eab1e1
   - 5342ce58cd1e
   - 7b9fafe32c86
@@ -123,6 +125,7 @@ tools:
   revisions:
   - 3d748954434b
   - 43cb7b5a6fe7
+  - 637e50759b72
   - 8db95f488f0f
   - ed4996a16f7f
   tool_panel_section_id: single_cell
@@ -467,6 +470,7 @@ tools:
   owner: bgruening
   revisions:
   - 4447ed460308
+  - d817b3807562
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: episcanpy_build_matrix
@@ -540,6 +544,7 @@ tools:
   revisions:
   - 883c33ef3372
   - 90e95e9ee190
+  - f66590d0d3af
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: gsc_scran_normalize

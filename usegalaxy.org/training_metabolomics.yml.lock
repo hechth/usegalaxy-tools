@@ -21,6 +21,7 @@ tools:
   owner: lecorguille
   revisions:
   - 26d77e9ceb49
+  - 564d6ab0cf18
   - bb9ee352fce0
   - ec9aebabc1d2
   tool_panel_section_id: metabolomics
@@ -69,6 +70,7 @@ tools:
   - 00e66c401366
   - 07cac38cbd29
   - 357df6c47d92
+  - 360836810cd5
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: matchms_formatter

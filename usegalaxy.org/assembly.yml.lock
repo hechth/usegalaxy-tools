@@ -7,6 +7,7 @@ tools:
   owner: bgruening
   revisions:
   - 53dd00a4ab68
+  - 81bc4c8bcf10
   - 8c2167481e72
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -32,6 +33,7 @@ tools:
   - 72472698a2df
   - 7594365c546b
   - 875d0f36d66f
+  - cbc516cee202
   - ebb0dcdb621a
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -119,6 +121,7 @@ tools:
   - 675ee1aa5952
   - 9e58ff014088
   - a8a278849c18
+  - c6ba8470ed01
   - e122f9101584
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -140,6 +143,7 @@ tools:
   - 4a01e0d2892c
   - 6b5a5842531e
   - 7e27faaad80e
+  - 9911ca348668
   - b8002c3f7141
   - e5a3b75a271f
   tool_panel_section_id: assembly
@@ -147,6 +151,7 @@ tools:
 - name: spades_coronaspades
   owner: iuc
   revisions:
+  - 2c650dcc6190
   - 34305b013402
   - 655fa188c3cc
   - 9678993ca5bd
@@ -175,6 +180,7 @@ tools:
   - 7bb235ff0746
   - 85fb02c43042
   - 8cc856b935ee
+  - c4e781659379
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: spades_metaviralspades
@@ -255,6 +261,7 @@ tools:
   - 29151e779524
   - 76d4cbefff85
   - a315c25dc813
+  - bded6226d503
   - e9bd16ba5ebd
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -333,18 +340,21 @@ tools:
   - 44c66e8d21e6
   - 6c571966cfb9
   - 7c9417381ad5
+  - da25e82a51a8
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: pretext_graph
   owner: iuc
   revisions:
   - 75b4a2298714
+  - 9491362ac1cd
   - eca7d3a0c5f2
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: gfastats
   owner: bgruening
   revisions:
+  - 10dc0f5a82e2
   - 2b8b4cacb83d
   - 3ef480892a9f
   - 3fba9c77550a
@@ -360,6 +370,7 @@ tools:
   revisions:
   - 39495e107274
   - 425e63adcc5d
+  - 6756b34312cd
   - d87433f2a54d
   - fc925f53cae7
   - ff4031bfaa22
@@ -376,6 +387,7 @@ tools:
   owner: devteam
   revisions:
   - 920677cd220f
+  - e0e4fc474b07
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: aegean_parseval
@@ -418,6 +430,7 @@ tools:
   revisions:
   - 8cffb8fc34f0
   - 8ed44487c834
+  - cbc4a0eb290a
   - fdd073110081
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -426,6 +439,7 @@ tools:
   revisions:
   - 060f0fed864e
   - 39df08e91cdf
+  - 3b91601ad5df
   - 53d73d58e105
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
