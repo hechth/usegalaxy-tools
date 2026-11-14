@@ -77,6 +77,7 @@ tools:
   revisions:
   - 14ddfc8ffb93
   - 7518ee87b53d
+  - 9942ffb676fe
   - a96f3ad4e0d8
   - de387b2b2803
   tool_panel_section_id: assembly
@@ -94,6 +95,7 @@ tools:
   owner: iuc
   revisions:
   - 2dcd07f40204
+  - 691bdc4cc8f0
   - 80d1250bd5fd
   - 8b6d0d85252b
   - 8dee0218ac7d
@@ -127,6 +129,7 @@ tools:
   revisions:
   - 48cf45a53456
   - 6357b127161e
+  - 9c9646309b04
   - b65a43f70b99
   - d159735a6a9f
   - d5fb354f745d
@@ -175,6 +178,7 @@ tools:
   - 7bb235ff0746
   - 85fb02c43042
   - 8cc856b935ee
+  - d2ebe2f4ac68
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: spades_metaviralspades
@@ -319,6 +323,7 @@ tools:
   owner: iuc
   revisions:
   - 02831bf9e95f
+  - 0d0e8d0691c8
   - 2b16ba799da9
   - 511e5e3cd55e
   - 79b48f02db49
@@ -382,12 +387,14 @@ tools:
   owner: iuc
   revisions:
   - 1b52f0c8ad7f
+  - c8faf125cfa3
   - d6c074a93c51
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: mitohifi
   owner: bgruening
   revisions:
+  - 2853471f753d
   - 99ddbf037d98
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -426,6 +433,7 @@ tools:
   revisions:
   - 060f0fed864e
   - 39df08e91cdf
+  - 3b91601ad5df
   - 53d73d58e105
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly

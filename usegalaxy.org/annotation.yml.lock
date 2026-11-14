@@ -7,6 +7,7 @@ tools:
   owner: crs4
   revisions:
   - 111884f0d912
+  - 8096daf9ce73
   - 8a22554cdde2
   - bf68eb663bc3
   - eaee459f3d69
@@ -18,6 +19,7 @@ tools:
   - 4efdca267d51
   - b734db305578
   - c2ef298da409
+  - d8b0de0554a9
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: augustus
@@ -25,6 +27,7 @@ tools:
   revisions:
   - 09855551d713
   - 28433faa6e42
+  - 534814b64234
   - ca6d970d931c
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -60,6 +63,7 @@ tools:
   - 46ae58b1d792
   - 602fb8e63aa7
   - 94170eee0ad8
+  - cc217867028e
   - cf13a1e03e5b
   - e4bd1e99bacf
   - ea8146ee148f
@@ -196,6 +200,7 @@ tools:
   owner: iuc
   revisions:
   - 15ac71df11a0
+  - 3f12675edf68
   - 78608ec02d62
   - 809e42326fc2
   - 91887494eb97
@@ -231,6 +236,7 @@ tools:
   - 2c68b0c38785
   - 4839e590cb26
   - 51dd22484644
+  - 60a1dad331ec
   - 809dfc93d593
   - ac8250086ac3
   - ba6f87115e13
@@ -263,6 +269,7 @@ tools:
   revisions:
   - 36093854bfc7
   - 8bc80c2a15b3
+  - d221bf907235
   - edcf603bedfd
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -271,6 +278,7 @@ tools:
   revisions:
   - 012171ba9fce
   - 42b38f6d9f68
+  - 92390a2cbb12
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: find_nested_alt_orfs
@@ -339,6 +347,7 @@ tools:
 - name: freyja_demix
   owner: iuc
   revisions:
+  - 2b618ed582da
   - c0a0e79d7196
   - fc6252e78d5b
   tool_panel_section_id: annotation
@@ -348,6 +357,7 @@ tools:
   revisions:
   - 0ceb9fb0f4ce
   - 1f89eeba299a
+  - aa55042c6e5e
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: cooc_mutbamscan
@@ -367,6 +377,7 @@ tools:
   - 52bd683c6d3f
   - 579538ff939d
   - cb0d9eb033ef
+  - ec5826d33185
   - eeb5c054ecf8
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -391,6 +402,7 @@ tools:
   - 0418d28136de
   - 30f08d74024f
   - 57c6718cbfcc
+  - 7f8f38e27dee
   - a7ce2601500c
   - b69c46064ec7
   - e94187d661df
@@ -399,6 +411,7 @@ tools:
 - name: funannotate_annotate
   owner: iuc
   revisions:
+  - 0b8d49d3742d
   - 3bbe70fef6df
   - 582fd74dc2a1
   - 756376aeb1ae
@@ -411,6 +424,7 @@ tools:
   owner: iuc
   revisions:
   - 1bc5a03faf2e
+  - 3cc3ef448854
   - 4b96ced19f75
   - 51b6ee65ef7f
   - f31125bb85ea
@@ -433,6 +447,7 @@ tools:
   owner: bgruening
   revisions:
   - 1ac12c0cc7a0
+  - 4594ca417b13
   - 7ccc6234b54e
   - 8e9e228c54c4
   tool_panel_section_id: annotation
@@ -451,6 +466,7 @@ tools:
 - name: windowmasker
   owner: iuc
   revisions:
+  - 81da9f1757b1
   - d90ae4a02efd
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -458,12 +474,14 @@ tools:
   owner: iuc
   revisions:
   - aeb4c76d007b
+  - e64445f727cd
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: miniprot
   owner: iuc
   revisions:
   - 6b20d051d0dc
+  - fb8b3a37ac9c
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: amrfinderplus
@@ -476,6 +494,7 @@ tools:
   owner: iuc
   revisions:
   - 8f20a5b9b282
+  - c8913c72ee87
   - cfec9601b25d
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation

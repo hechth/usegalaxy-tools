@@ -15,6 +15,7 @@ tools:
   - 11ab2081bd4a
   - 12def6edac2f
   - 6de175c1f6ef
+  - 788a4bac4a11
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: xcms_fillpeaks
@@ -30,6 +31,7 @@ tools:
   revisions:
   - 2b676d5eb848
   - 71572faf938e
+  - a151d2cf27fb
   - d45a786cbc40
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -46,6 +48,7 @@ tools:
   revisions:
   - 8242376d9f35
   - aa252eec9229
+  - ba20f926a460
   - d2b82d89f848
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -53,6 +56,7 @@ tools:
   owner: lecorguille
   revisions:
   - 6550698fe60f
+  - 734dfb2af03a
   - b02d1992a43a
   - f5d51091cf84
   tool_panel_section_id: metabolomics
@@ -69,11 +73,13 @@ tools:
   - 00e66c401366
   - 07cac38cbd29
   - 357df6c47d92
+  - 360836810cd5
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: matchms_formatter
   owner: recetox
   revisions:
+  - 2d17d540ec2b
   - 6501d0287dcd
   - 715fe77be601
   - 9e3c83d2afc3
@@ -90,12 +96,14 @@ tools:
   owner: recetox
   revisions:
   - 25625114618e
+  - b0a739025b81
   - f2c1d0bbb074
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: riassigner
   owner: recetox
   revisions:
+  - 3af9c2de8522
   - af25aa61c611
   - c702620c22b1
   - f6bf8f1f3224

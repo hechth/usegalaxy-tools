@@ -27,6 +27,7 @@ tools:
   - 9d33775ec67d
   - c5d3684f7c4c
   - ca086f24422f
+  - cc0596ccfa4c
   - e4c99c83dfbf
   - f54f0f0598ad
   tool_panel_section_id: single_cell
@@ -51,6 +52,7 @@ tools:
   - 51d945eab1e1
   - 5342ce58cd1e
   - 7b9fafe32c86
+  - 9428a84a77bd
   - 94c19fb1281c
   - a407e7f8bdc1
   - ab55fe8030b6
@@ -77,6 +79,7 @@ tools:
   owner: iuc
   revisions:
   - 215733a383f2
+  - 44b07303ee62
   - 458e8f43a775
   - 73ab2ac53d06
   - 80d4e2cac903
@@ -102,6 +105,7 @@ tools:
   revisions:
   - 00712416fdaa
   - '499059586799'
+  - 8f8c0fdd625d
   - 93dd15e13e6a
   - ae1e5d9d8972
   - cfc3f5a57dc6
@@ -123,6 +127,7 @@ tools:
   revisions:
   - 3d748954434b
   - 43cb7b5a6fe7
+  - 637e50759b72
   - 8db95f488f0f
   - ed4996a16f7f
   tool_panel_section_id: single_cell
@@ -141,6 +146,7 @@ tools:
   owner: iuc
   revisions:
   - 2c1200fba922
+  - 2ee6ff4d70fc
   - a9caad671439
   - cdf4443d5625
   - cfe1e6c28d95
@@ -485,6 +491,7 @@ tools:
   owner: iuc
   revisions:
   - d1b34ac42b8f
+  - e188e2c2598b
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: sinto_fragments

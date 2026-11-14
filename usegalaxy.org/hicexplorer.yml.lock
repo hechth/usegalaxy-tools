@@ -20,6 +20,7 @@ tools:
 - name: hicexplorer_chicexportdata
   owner: bgruening
   revisions:
+  - 0671a38a29d5
   - 163fd744e235
   - 23b8d6b8960c
   tool_panel_section_id: hicexplorer
@@ -97,6 +98,7 @@ tools:
 - name: hicexplorer_hicaverageregions
   owner: bgruening
   revisions:
+  - 0ec8d77d1833
   - 8a11d70b6cd8
   - c72fa6cb8817
   tool_panel_section_id: hicexplorer
@@ -125,6 +127,7 @@ tools:
 - name: hicexplorer_hicconvertformat
   owner: bgruening
   revisions:
+  - 0d0c6092cc43
   - 2ba6cee8e4db
   - c0737631eea1
   tool_panel_section_id: hicexplorer
@@ -160,6 +163,7 @@ tools:
 - name: hicexplorer_hicfindrestrictionsites
   owner: bgruening
   revisions:
+  - 430acc59e883
   - 6c5097f6d41e
   - 972dcccb5bbc
   tool_panel_section_id: hicexplorer
@@ -224,6 +228,7 @@ tools:
   owner: bgruening
   revisions:
   - 77919cc3618e
+  - b03f8b95b08c
   - c3e5e2cf12b7
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
@@ -253,6 +258,7 @@ tools:
   revisions:
   - 337705015ee8
   - b4e780e93c91
+  - ff9f5d335041
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
 - name: hicexplorer_hicplotviewpoint
@@ -265,6 +271,7 @@ tools:
 - name: hicexplorer_hicquickqc
   owner: bgruening
   revisions:
+  - 0a134c0bdb39
   - 21d859ad4502
   - ea8fb5e899e8
   tool_panel_section_id: hicexplorer
@@ -306,6 +313,7 @@ tools:
   owner: iuc
   revisions:
   - 2e773e00ceb0
+  - 658ae96f53c4
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
 - name: schicexplorer_schiccluster
@@ -318,6 +326,7 @@ tools:
   owner: iuc
   revisions:
   - 54b6cef88a7f
+  - 97569c103d58
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
 - name: schicexplorer_schicclusterminhash
@@ -329,6 +338,7 @@ tools:
 - name: schicexplorer_schicclustersvl
   owner: iuc
   revisions:
+  - e327fe59be69
   - e6ec3914a076
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
@@ -342,6 +352,7 @@ tools:
   owner: iuc
   revisions:
   - 295558e266d0
+  - f2d2d650f7b5
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
 - name: schicexplorer_schiccreatebulkmatrix
@@ -360,6 +371,7 @@ tools:
   owner: iuc
   revisions:
   - 41b415c410e3
+  - b3b17288df08
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
 - name: schicexplorer_schicmergematrixbins
@@ -383,6 +395,7 @@ tools:
 - name: schicexplorer_schicplotclusterprofiles
   owner: iuc
   revisions:
+  - 0aca9bf1e402
   - 65f2f5d29947
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
@@ -390,6 +403,7 @@ tools:
   owner: iuc
   revisions:
   - 95b1216e1e70
+  - b1f0a9b02efd
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
 - name: schicexplorer_schicqualitycontrol
