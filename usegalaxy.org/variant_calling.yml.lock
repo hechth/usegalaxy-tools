@@ -40,6 +40,7 @@ tools:
   owner: iuc
   revisions:
   - 2b3e65a4252f
+  - 2d6319686ea3
   - 2e497a770bca
   - 5fab4f81391d
   tool_panel_section_id: variant_calling
@@ -167,6 +168,7 @@ tools:
 - name: bcftools_plugin_color_chrs
   owner: iuc
   revisions:
+  - 09694f0edd75
   - 36960e552ddc
   - 71dfde92fd57
   - c39113e2ae34
@@ -184,6 +186,7 @@ tools:
   - b40213125e88
   - c0b17fc737d4
   - eb22990a2be9
+  - f3b9269e6e70
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: exomedepth
@@ -248,6 +251,7 @@ tools:
   owner: iuc
   revisions:
   - 93c4b04a0769
+  - c7a721c21e01
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: jasminesv

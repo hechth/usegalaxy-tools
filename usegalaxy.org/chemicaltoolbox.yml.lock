@@ -243,6 +243,7 @@ tools:
   - 2f7702fd0a4c
   - 5b85006245f3
   - 6ab1a261520a
+  - c62f678e5555
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: gromacs_extract_topology
@@ -441,6 +442,7 @@ tools:
   owner: bgruening
   revisions:
   - 330514267c57
+  - e1676a9f766b
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: mdanalysis_angle
@@ -525,6 +527,7 @@ tools:
   owner: bgruening
   revisions:
   - d7f0ca1f2669
+  - fc2a2989c3b1
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: prepare_ligands_for_docking

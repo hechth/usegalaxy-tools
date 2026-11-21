@@ -33,6 +33,7 @@ tools:
 - name: vegan_rarefaction
   owner: iuc
   revisions:
+  - 2e07478654b3
   - af1211ed6c8e
   - b0d5976540e3
   tool_panel_section_id: metagenomic_analysis
@@ -47,6 +48,7 @@ tools:
 - name: vegan_diversity
   owner: iuc
   revisions:
+  - 7a3dbbe68c1a
   - a1b80a746054
   - a2c047a2c380
   tool_panel_section_id: metagenomic_analysis
@@ -242,6 +244,7 @@ tools:
   - 7f3b59dee073
   - 7f8f0e9fcb37
   - b6dddf8c2e6f
+  - ddf5bcfde13d
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: dada2_filterandtrim
@@ -435,6 +438,7 @@ tools:
 - name: vapor
   owner: iuc
   revisions:
+  - 21e09ba992b8
   - 244812f5bd1f
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -457,6 +461,7 @@ tools:
   owner: iuc
   revisions:
   - 95bf7479d53c
+  - f131572be91e
   - fc6c328c292f
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -556,6 +561,7 @@ tools:
 - name: krakentools_extract_kraken_reads
   owner: iuc
   revisions:
+  - 04eb022d7409
   - f329328da134
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis

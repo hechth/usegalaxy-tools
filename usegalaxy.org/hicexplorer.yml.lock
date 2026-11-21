@@ -49,6 +49,7 @@ tools:
   owner: bgruening
   revisions:
   - 40fee49bc6c3
+  - 90d52ca89318
   - f881c94fb3b3
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
@@ -70,6 +71,7 @@ tools:
   owner: bgruening
   revisions:
   - 40fee49bc6c3
+  - 90d52ca89318
   - f881c94fb3b3
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
@@ -133,6 +135,7 @@ tools:
   owner: bgruening
   revisions:
   - 62b720dceb56
+  - c5ce0cbf73dc
   - ea19190ce5e0
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
@@ -311,6 +314,7 @@ tools:
 - name: schicexplorer_schiccluster
   owner: iuc
   revisions:
+  - 3728380d1dff
   - baa3ae7ac42c
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
@@ -353,6 +357,7 @@ tools:
 - name: schicexplorer_schicdemultiplex
   owner: iuc
   revisions:
+  - a49faacc7c1f
   - f224fc9af1d3
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
@@ -366,6 +371,7 @@ tools:
   owner: iuc
   revisions:
   - 47ef02546fe9
+  - 48ed2580b39e
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
 - name: schicexplorer_schicmergetoscool

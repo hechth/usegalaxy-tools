@@ -70,6 +70,7 @@ tools:
   - 374e9062d874
   - 53460afd5115
   - '566197475670'
+  - 94f3fd9ade04
   - ca7cb0eaad62
   tool_panel_section_id: graph_display_data
   tool_panel_section_label: Graph/Display Data
@@ -190,6 +191,7 @@ tools:
   - 90928b255abb
   - b1268b7544d3
   - fcb6a19960c6
+  - ffcb4db567f9
   tool_panel_section_id: graph_display_data
   tool_panel_section_label: Graph/Display Data
 - name: ggplot2_point
@@ -306,6 +308,7 @@ tools:
   - 73b8cb5bddcd
   - 83c573f2e73c
   - a363ba287b88
+  - fb7c8c458459
   tool_panel_section_id: graph_display_data
   tool_panel_section_label: Graph/Display Data
 - name: krona_text

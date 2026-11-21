@@ -128,6 +128,7 @@ tools:
   revisions:
   - 690b1d846263
   - 9fd5d91eb91b
+  - cc80a3aca4bf
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: vcfbedintersect
@@ -259,6 +260,7 @@ tools:
 - name: bcftools_view
   owner: iuc
   revisions:
+  - 04f3851c5af7
   - 1262c96a9974
   - 1d1762860d7e
   - 23680a42e149
@@ -286,6 +288,7 @@ tools:
   revisions:
   - 1a989b4110da
   - 1ccf0e7fb4f6
+  - 3c3b4af46dd6
   - 427e353bf26f
   - b76adb2f1c51
   - bdc67eeb0bc9
@@ -417,6 +420,7 @@ tools:
   owner: iuc
   revisions:
   - 98664595dedf
+  - a54d72e559a8
   - a9547524b473
   - ab7c07ed8726
   - af36eb5418fe
@@ -512,6 +516,7 @@ tools:
 - name: bcftools_convert_to_vcf
   owner: iuc
   revisions:
+  - 288d47b99a01
   - 4935320a59a8
   - 55c0e906c14c
   - 7291189e98b4
@@ -539,6 +544,7 @@ tools:
   - 26d97cdd5410
   - 39810174657a
   - 3eac729e66c9
+  - 4d18869714bb
   - 672b6c02fbc7
   - 91c1e57d5c7f
   - 9243f0e24906

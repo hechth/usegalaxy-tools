@@ -271,6 +271,7 @@ tools:
   revisions:
   - 012171ba9fce
   - 42b38f6d9f68
+  - 92390a2cbb12
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: find_nested_alt_orfs
@@ -317,6 +318,7 @@ tools:
   - 1eafcc450052
   - 65c38d020fea
   - eb35257d2e29
+  - f7746d145125
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: clinod
@@ -354,6 +356,7 @@ tools:
   owner: iuc
   revisions:
   - 373c1735d31f
+  - 44c396b0f5e1
   - 9f1660129403
   - cd0484c5f9f1
   - d58a57db7a96
@@ -391,6 +394,7 @@ tools:
   - 0418d28136de
   - 30f08d74024f
   - 57c6718cbfcc
+  - 7f8f38e27dee
   - a7ce2601500c
   - b69c46064ec7
   - e94187d661df
@@ -411,6 +415,7 @@ tools:
   owner: iuc
   revisions:
   - 1bc5a03faf2e
+  - 3cc3ef448854
   - 4b96ced19f75
   - 51b6ee65ef7f
   - f31125bb85ea
@@ -458,6 +463,7 @@ tools:
   owner: iuc
   revisions:
   - aeb4c76d007b
+  - e64445f727cd
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: miniprot

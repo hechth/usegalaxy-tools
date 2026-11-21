@@ -28,6 +28,7 @@ tools:
   - c053d4cad713
   - c5e2e5902201
   - de6cebe3c043
+  - e075c7e866d1
   - e4691e1589d3
   - f5fdf41c08b8
   - fe74900d6dc7
@@ -154,6 +155,7 @@ tools:
   revisions:
   - 249c8393f2d4
   - 35e38452bb3f
+  - 83936df70226
   - 9bbe5b7ffa12
   - e39cc71d3ed6
   tool_panel_section_id: fasta_fastq
@@ -180,6 +182,7 @@ tools:
   - 47e5dbc3e790
   - 71e5fa25b8a2
   - 8611b80a14d6
+  - ed6b5c0c1e8d
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: fastq_filter
@@ -328,6 +331,7 @@ tools:
   owner: rnateam
   revisions:
   - 733ca84b21ee
+  - c6e3d6cf49df
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: filter_by_fasta_ids
@@ -368,6 +372,7 @@ tools:
 - name: umi_tools_dedup
   owner: iuc
   revisions:
+  - 6ec3233f30a6
   - f1d33e4c7bd8
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ

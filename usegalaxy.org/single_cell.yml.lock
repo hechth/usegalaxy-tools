@@ -160,6 +160,7 @@ tools:
   revisions:
   - 43c146e25a43
   - 7608d5faee41
+  - 81aacdf3a656
   - b83fbc90161e
   - d45f092caf24
   tool_panel_section_id: single_cell
@@ -454,6 +455,7 @@ tools:
   owner: bgruening
   revisions:
   - 22232092be53
+  - b5185a4f5209
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: music_deconvolution
@@ -560,6 +562,7 @@ tools:
 - name: snapatac2_peaks_and_motif
   owner: iuc
   revisions:
+  - 02a7162fc510
   - 588c811fdd48
   - 88192fe25375
   - b9013e0e2b00
